@@ -218,7 +218,7 @@ p {
 
     background: var(--cream);
 
-    color: white;
+    color: Brown;
 
 }
 
@@ -324,7 +324,7 @@ nav a {
 
 
 nav a:hover {
-    color: var(--gold);
+    color: var(--cream);
 }
 
 
@@ -414,7 +414,7 @@ nav a:hover {
 
 
 .hero h1 span {
-    color: var(--gold-light);
+    color: var(--cream);
 }
 
 
