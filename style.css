@@ -10,7 +10,7 @@
 
 :root {
 
-    --cream: #f7f1e8;
+    --icy-aqua: #BFFAF4;
     --cream-dark: #eee4d6;
 
     --brown: #3d2c24;
@@ -107,7 +107,7 @@ select {
 
 
 .light-section {
-    background: var(--cream);
+    background: var(--icy-aqua);
 }
 
 
