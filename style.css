@@ -1174,7 +1174,7 @@ details p {
     background:
         linear-gradient(
             135deg,
-            var(--gold),
+            var(--gold-light),
             #92743e
         );
 
@@ -1209,7 +1209,7 @@ details p {
 
 .site-footer {
 
-    background: #010A09;
+    /*background: #010A09;*/
    background-color: #140103;
 
     color: white;
