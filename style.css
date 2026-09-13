@@ -17,7 +17,7 @@
     --brown-light: #6b5549;
 
     --gold: #b8955a;
-    --gold-light: #d2b77e;
+    --gold-light: #5AFAEA; /*d2b77e */
 
     --white: #ffffff;
     --black: #171311;
@@ -1209,7 +1209,7 @@ details p {
 
 .site-footer {
 
-    background: #211814;
+    background: #010A09;
 
     color: white;
 
