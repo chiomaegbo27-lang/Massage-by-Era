@@ -17,7 +17,7 @@
     --brown-light: #6b5549;
 
     --gold: #D09305;
-    --gold-light: #5AFAEA; /*d2b77e */
+    --gold-light: #5AFAEA; /*d2b77e neon ice*/
 
     --white: #ffffff;
     --black: #171311;
@@ -216,9 +216,9 @@ p {
 
 .btn-primary {
 
-    background: var(--cream);
+    background: var(--brown);
 
-    color: Brown;
+    color: cream;
 
 }
 
