@@ -16,7 +16,7 @@
     --brown: #010A09;
     --brown-light: #6b5549;
 
-    --gold: #b8955a;
+    --gold: #D09305;
     --gold-light: #5AFAEA; /*d2b77e */
 
     --white: #ffffff;
@@ -216,7 +216,7 @@ p {
 
 .btn-primary {
 
-    background: var(--gold);
+    background: var(--cream);
 
     color: white;
 
@@ -299,7 +299,7 @@ p {
 
 
 .logo span {
-    color: var(--gold);
+    color: var(--cream);
 }
 
 
@@ -1210,6 +1210,7 @@ details p {
 .site-footer {
 
     background: #010A09;
+   background-color: #140103;
 
     color: white;
 
